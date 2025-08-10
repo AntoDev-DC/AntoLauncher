@@ -97,8 +97,8 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Map;
 
-import git.artdeell.mojo.BuildConfig;
-import git.artdeell.mojo.R;
+import git.antolinnin.alaunch.BuildConfig;
+import git.antolinnin.alaunch.R;
 
 @SuppressWarnings("IOStreamConstructor")
 public final class Tools {
